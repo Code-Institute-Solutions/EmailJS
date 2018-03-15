@@ -386,6 +386,18 @@ button[type="submit"] {
     color: #fafafa;
 }
 
+.alert-success {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.alert-danger {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
 /*--------------------------------------------Media Queries*/
 
 @media(min-width: 992px) {
